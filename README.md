@@ -1,3 +1,6 @@
+<img src="public/tic-tac-toe.png" width=100>
+
+
 # Tic-Tac-Toe Game
 
 This is a simple interactive Tic-Tac-Toe game implemented using React. The game features a 3x3 grid where players can click on the cells to place their marks (X or O). The game status is displayed, indicating the current player's turn, the winner, or a tie.
