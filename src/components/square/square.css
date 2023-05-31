@@ -8,3 +8,7 @@
   cursor: pointer;
   font-size: 36px;
 }
+
+.winning {
+  border: 3px solid #ff8584;
+}
